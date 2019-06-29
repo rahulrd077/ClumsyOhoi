@@ -33,5 +33,7 @@ public class Dam {
 		Dam d = new Dam(70,"Rahul");
 		
 		dew.man();
+		
+		//end of program
 	}
 }
